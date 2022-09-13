@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Form-Validation-without-Formik%20/static/css/main.16de9425.css",
+    "main.js": "/Form-Validation-without-Formik%20/static/js/main.539a22ff.js",
+    "static/js/787.a968c386.chunk.js": "/Form-Validation-without-Formik%20/static/js/787.a968c386.chunk.js",
+    "index.html": "/Form-Validation-without-Formik%20/index.html",
+    "main.16de9425.css.map": "/Form-Validation-without-Formik%20/static/css/main.16de9425.css.map",
+    "main.539a22ff.js.map": "/Form-Validation-without-Formik%20/static/js/main.539a22ff.js.map",
+    "787.a968c386.chunk.js.map": "/Form-Validation-without-Formik%20/static/js/787.a968c386.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16de9425.css",
+    "static/js/main.539a22ff.js"
+  ]
+}
